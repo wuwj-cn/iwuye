@@ -8,13 +8,13 @@
     </block>
   </view>
   <view class="">
-    <block>
+    <view>
       <icon type="search" size='16'></icon>
       <label>搜索</label>
-    </block>
-    <block>
+    </view>
+    <view>
       <icon type="success" size='16'></icon>
       <label>登记问题</label>
-    </block>
+    </view>
   </view>
 </view>
